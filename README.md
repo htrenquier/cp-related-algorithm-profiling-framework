@@ -36,3 +36,8 @@ outputFileNameN should be named as follows:
 '<dataset>_<algorithmName>.txt'
 
 The file can be read as '.csv' format.
+
+
+## input-dags
+These datasets have been generated from templates available on the Pegasus' project website:
+https://confluence.pegasus.isi.edu/display/pegasus/WorkflowGenerator
