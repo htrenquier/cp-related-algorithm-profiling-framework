@@ -33,7 +33,7 @@ Limitations:
 Usage: `python plot.py outputFileName1 outputFileName1 outputFileName3 ...`
 
 outputFileNameN should be named as follows:
-'<dataset>_<algorithmName>.txt'
+'\<dataset\>_\<algorithmName\>.txt'
 
 The file can be read as '.csv' format.
 
